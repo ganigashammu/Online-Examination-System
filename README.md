@@ -1,1 +1,2 @@
 # Online-Examination-System
+Developed a dynamic Online Examination Platform utilizing Django, providing users with access to a range of multiple-choice exams sorted by course. Empowering users with the ability to effortlessly navigate through available exams, take tests, and review their scores post-completion. Simplified the examination process for both administrators and users, ensuring a smooth and efficient experience.
